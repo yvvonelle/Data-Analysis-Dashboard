@@ -39,7 +39,7 @@ The final Excel dashboard provides visual insights into:
 * **Segment Distribution:** Spending tier breakdown across different age groups.
 
  - <a href = "https://github.com/yvvonelle/Data-Analysis-Dashboard/blob/main/shopping%20dashboard.png"> Dashoard</a>
- <img width="1072" height="430" alt="shopping dashboard" src="https://github.com/user-attachments/assets/1677f5d7-6b0c-480d-97be-527592288559" />
+- <img width="1072" height="430" alt="shopping dashboard" src="https://github.com/user-attachments/assets/1677f5d7-6b0c-480d-97be-527592288559" />
 
 
 ## Tools Used
