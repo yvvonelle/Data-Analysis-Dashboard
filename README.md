@@ -42,7 +42,7 @@ The final Excel dashboard provides visual insights into:
 
 ## Tools Used
 * **Microsoft Excel:** Data cleaning, Pivot Tables, and Dashboard creation.
-* **Power Query (Optional):** Used for data transformation and cleaning.
+  
 
 ## Conclusion
 This project demonstrates the ability to transform raw data into meaningful customer segments. It serves as a foundation for more advanced analysis using SQL or Power BI to further explore predictive customer behavior.
