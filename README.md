@@ -3,8 +3,8 @@
 ## Project Overview
 This project analyzes customer shopping behavior to identify patterns in spending, product preferences, and customer segments. By transforming raw transaction data into actionable insights, this analysis supports data-driven marketing strategies and business decision-making.
 
-##Dataset Used
-<a> </a>
+## Dataset Used
+<a href = "https://github.com/yvvonelle/Data-Analysis-Dashboard/blob/main/shopping_behaviour_raw_data.csv"> </a>
 
 ## Dataset Description
 The dataset contains comprehensive customer and transaction details, including:
