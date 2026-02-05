@@ -4,7 +4,7 @@
 This project analyzes customer shopping behavior to identify patterns in spending, product preferences, and customer segments. By transforming raw transaction data into actionable insights, this analysis supports data-driven marketing strategies and business decision-making.
 
 ## Dataset Used
-- <a href = "https://github.com/yvvonelle/Data-Analysis-Dashboard/blob/main/shopping_behaviour_raw_data.csv">Raw Dataset </a>
+- <a href = "https://github.com/yvvonelle/Data-Analysis-Dashboard/blob/main/shopping_behaviour_raw_data.csv"> Raw Dataset </a>
 
 ## Dataset Description
 The dataset contains comprehensive customer and transaction details, including:
@@ -21,7 +21,7 @@ To ensure data integrity and ease of analysis, the following steps were taken:
     * Developed `Spending_Tier` based on purchase amount ranges.
     * Defined `Frequency_Tier` based on purchasing behavior.
 3.  **Data Quality:** Formatted numeric fields and removed inconsistencies in category names.
-   - <a href = "https://github.com/yvvonelle/Data-Analysis-Dashboard/blob/main/shopping_behaviour_cleaned_data.csv"> Cleaned Dataset</a>
+   - <a href = "https://github.com/yvvonelle/Data-Analysis-Dashboard/blob/main/shopping_behaviour_cleaned_data.csv"> Cleaned Dataset </a>
 
 ## Key Business Questions (KPIs)
 The analysis seeks to answer the following:
