@@ -37,7 +37,7 @@ The final Excel dashboard provides visual insights into:
 * **Demographic Analysis:** Customer count and average purchase amount by age bracket.
 * **Segment Distribution:** Spending tier breakdown across different age groups.
 
-> **Note:** [Insert a screenshot of your Excel Dashboard here to showcase your work!]
+- Dashboard <a href = "https://github.com/yvvonelle/Data-Analysis-Dashboard/blob/main/shopping%20dashboard.png"> </a>
 
 ## Tools Used
 * **Microsoft Excel:** Data cleaning, Pivot Tables, and Dashboard creation.
